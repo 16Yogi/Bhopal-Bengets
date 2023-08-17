@@ -55,14 +55,116 @@ export default function About1() {
            </div>
         </div>
         {/* sec3 */}
-        <div className="container-fluid">
-            <div className="container">
-                <div className="col-lg-4">
-                    
+        <div className="container-fluid p-0" id="about1-sec-3-cf">
+            <div className="container-fluid" id="about1-sec3-bgcl">
+                <div className="container row" id="about1-sec3-wrap">
+                    <div className="col-lg-5">
+                        <img src="https://www.kinghillstravels.com/assets/front/default/images/22.png" alt="" />
+                    </div>
+                    <div className="col-lg-7">
+                        <div className="col" id="about-sec3-con-item">
+                            <h3>Get 10-50% Off For Your First</h3>
+                            <h3>Adventure Trip With Kinghills</h3>
+                            <p className='text-white'>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment Mauris ut cursus nunc.We denounce with righteous indignation and dislike men who are so beguiled and demoralized beguiled</p>
+                            <button className='btn'>Start Your Trip</button>
+                        </div>
+                    </div>
                 </div>
-                <div className="col-lg-8"></div>
             </div>
         </div> 
+        {/* sec 4 */}
+        <div className="container-fluid" id="about1-sec4-cf">
+            <div className="container" id="about1-sec4-c">
+                <div className="col p-1">
+                    <h4 className='text-center'>Our</h4>
+                    <h2 className='text-center'>Services</h2>  
+                    <p className='text-center'>We are offering wide range of services in travel industry</p>      
+                </div>
+                <div className="row">
+                    <div className="col-lg-4 col-md-6 col-sm-12" id="about1-sec4-wrap">
+                        <div className="col p-3 text-center" id="about1-sec4-item">
+                            <div className="col mx-auto" id="about1-sec4-con">
+                                <i class="fa-solid fa-people-group"></i>
+                            </div>
+                            <h5>Go in group</h5>
+                            <p>If you have a group that is planning to go on a trip for ages but failing to go because of the excessive planning required.</p>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-12" id="about1-sec4-wrap">
+                        <div className="col p-3 text-center" id="about1-sec4-item">
+                            <div className="col mx-auto" id="about1-sec4-con">
+                                <i class="fa-solid fa-sliders"></i>
+                            </div>
+                            <h5>B2B tour deals</h5>
+                            <p>Are you a travel planner with limited tours? Outsource us your trips and we will manage it for you. Our B2B service for our partners and travel planners</p>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-12" id="about1-sec4-wrap">
+                        <div className="col p-3 text-center" id="about1-sec4-item">
+                            <div className="col mx-auto" id="about1-sec4-con">
+                                <i class="fa-brands fa-delicious"></i>
+                            </div>
+                            <h5>Customized Tours</h5>
+                            <p>If you want a trip different from others, then tell us and we will customize a trip especially for you keeping in mind your preferences and likes.</p>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-12" id="about1-sec4-wrap">
+                        <div className="col p-3 text-center" id="about1-sec4-item">
+                            <div className="col mx-auto" id="about1-sec4-con">
+                                <i class="fa-solid fa-people-group"></i>
+                            </div>
+                            <h5>Go in group</h5>
+                            <p>If you have a group that is planning to go on a trip for ages but failing to go because of the excessive planning required.</p>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-12" id="about1-sec4-wrap">
+                        <div className="col p-3 text-center" id="about1-sec4-item">
+                            <div className="col mx-auto" id="about1-sec4-con">
+                                <i class="fa-solid fa-sliders"></i>
+                            </div>
+                            <h5>B2B tour deals</h5>
+                            <p>Are you a travel planner with limited tours? Outsource us your trips and we will manage it for you. Our B2B service for our partners and travel planners</p>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-12" id="about1-sec4-wrap">
+                        <div className="col p-3 text-center" id="about1-sec4-item">
+                            <div className="col mx-auto" id="about1-sec4-con">
+                                <i class="fa-brands fa-delicious"></i>
+                            </div>
+                            <h5>Customized Tours</h5>
+                            <p>If you want a trip different from others, then tell us and we will customize a trip especially for you keeping in mind your preferences and likes.</p>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-12" id="about1-sec4-wrap">
+                        <div className="col p-3 text-center" id="about1-sec4-item">
+                            <div className="col mx-auto" id="about1-sec4-con">
+                                <i class="fa-solid fa-people-group"></i>
+                            </div>
+                            <h5>Go in group</h5>
+                            <p>If you have a group that is planning to go on a trip for ages but failing to go because of the excessive planning required.</p>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-12" id="about1-sec4-wrap">
+                        <div className="col p-3 text-center" id="about1-sec4-item">
+                            <div className="col mx-auto" id="about1-sec4-con">
+                                <i class="fa-solid fa-sliders"></i>
+                            </div>
+                            <h5>B2B tour deals</h5>
+                            <p>Are you a travel planner with limited tours? Outsource us your trips and we will manage it for you. Our B2B service for our partners and travel planners</p>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 col-sm-12" id="about1-sec4-wrap">
+                        <div className="col p-3 text-center" id="about1-sec4-item">
+                            <div className="col mx-auto" id="about1-sec4-con">
+                                <i class="fa-brands fa-delicious"></i>
+                            </div>
+                            <h5>Customized Tours</h5>
+                            <p>If you want a trip different from others, then tell us and we will customize a trip especially for you keeping in mind your preferences and likes.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </>
   )
 }

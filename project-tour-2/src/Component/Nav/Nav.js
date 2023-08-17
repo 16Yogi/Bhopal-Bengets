@@ -86,8 +86,8 @@ export default function Nav() {
                     </div>
                   </li>
                   <li className="nav-item active">
-                    <a className="nav-link" href="/Grouptour">Group Tours</a>
-                    {/* <Link to="/Grouptour" className='dropdown-item'>Group Tours</Link> */}
+                    {/* <a className="nav-link" href="/Grouptour">Group Tours</a> */}
+                    <Link to="/Grouptour" className='nav-link'>Group Tours</Link>
                   </li>
                   <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle" href="/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -102,7 +102,8 @@ export default function Nav() {
                     </div>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link disabled" href="/">Customised Tours</a>
+                    <Link to="/Custamizetour" className='nav-link'>Customised Tours</Link>
+                    {/* <a className="nav-link disabled" href="/">Customised Tours</a> */}
                   </li>
                   <li className="nav-item">
                     {/* <a className="nav-link disabled" href="/About">About Us</a> */}
@@ -110,7 +111,8 @@ export default function Nav() {
 
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link disabled" href="/">Contact Us</a>
+                    <Link to="/Contactmain" className='nav-link'>Contact Us</Link>
+                    {/* <a className="nav-link disabled" href="/">Contact Us</a> */}
                   </li>
                   <li className="nav-item">
                     <button className='btn'>+ KH Partners</button>
