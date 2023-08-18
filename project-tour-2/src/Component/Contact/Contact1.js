@@ -94,7 +94,7 @@ export default function Contact1() {
                                     <p>10:00 AM - 07:00 PM</p>
                                 </div>
                                 <div className="col">
-                                    <p className='' id="con1-opne-link">OPEN NOW</p>
+                                    <p className= '' id="con1-opne-link">OPEN NOW</p>
                                 </div>
                             </div>
                         </div>
